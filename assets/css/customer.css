@@ -1,5 +1,5 @@
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Copperplate', sans-serif;
     background-color: #ffda0b;
 }
 
@@ -9,14 +9,14 @@ body{
 }
 
 .navbar-brand{
-    font-family: 'Sansita Swashed', cursive;
+    font-family: 'Copperplate', sans-serif;
     font-size: 1.5rem;
-    color: #f088c8!important;
+    color: #e2f069!important;
 }
 
 .nav-link{
     color: #c0be2d!important;
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Copperplate', sans-serif;
 }
 
 .nav-link:hover{
@@ -30,7 +30,7 @@ body{
 
 .btn-info{
     padding: 1rem 1.2rem;
-    background-color: rgb(221, 94, 194)!important;
+    background-color: rgb(87, 136, 228)!important;
     color: #fff!important;
     margin-left: 5px;
     padding: 0.75rem;
@@ -38,5 +38,5 @@ body{
 }
 
 .btn-info:hover{
-    background-color: rgb(219, 97, 193)!important;
+    background-color: #ee2828!important;
 }
